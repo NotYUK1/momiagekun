@@ -1,0 +1,1 @@
+discordbot: python shiba.py
